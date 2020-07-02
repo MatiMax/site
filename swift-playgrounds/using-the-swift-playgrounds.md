@@ -1,7 +1,7 @@
 ---
 description: >-
-  An unasserted list of maybe useful playgrounds that shed light on the theory
-  of algorithms, the use of the Swift Standard Library, integration with C, and
+  An assorted list of maybe useful playgrounds that shed light on the theory of
+  algorithms, the use of the Swift Standard Library, integration with C, and
   other experiments.
 ---
 
@@ -15,7 +15,7 @@ Please feel free to copy, share, and re-use the playgrounds as I always include 
 
 ## Using the Playgrounds
 
-All playgrounds are hosted and published on [GitHub](https://github.com/MatiMax/Swift-Playgrounds). So please feel free to either clone or fork them. If you want to see some additions you might write a comment and ask for such. If you have some suggestions for improvements, please feel free to write a comment or modify the code, and thereafter post a pull request.
+All playgrounds are hosted and published on [GitHub](https://github.com/MatiMax/swift-playgrounds). So please feel free to either clone or fork them. If you want to see some additions you might write a comment and ask for such. If you have some suggestions for improvements, please feel free to write a comment or modify the code, and thereafter post a pull request.
 
 | Swift Playground | Topic |
 | :--- | :--- |
