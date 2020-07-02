@@ -1,24 +1,24 @@
 ---
 description: >-
-  An unasserted list of maybe useful playgrounds that shed light on the theory
-  of algorithms, the use of the Swift Standard Library, integration with C, and
-  other experiments.
+  My public scratchpad of various experiments and findings which I humbly share
+  with the community.
 ---
 
 # About this GitBook
 
-## Getting Started
+## Motivation
 
-This GitBook page gives an overview of the available Swift Playgrounds, their intention and some initial motivation on why I created these. As the playgrounds are self-documented making extensive use of Markdown I leave it to you to decide wheher you're going to jump into a topic and deep-dive in the calm seas of those playgrounds.
+During my carreer as computer scientist and engineer I collected a diverse assortment of knowledge, insights and learnings which I suppose to be helpful when shared with the community in order to either help out or foster the learning of people interested in those same topics.
 
-Please feel free to copy, share, and re-use the playgrounds as I always include an "I don't care" copyright, so I'm happy to donate my findings and results to the comunity without any loopholes. If you like you might mention where you stumbled across the idea and you might cite the original author\(s\), but that's certainly not a must.
+## Time Constraints
 
-## Using the Playgrounds
+Although I would be happy to repsond to questions asked or comments made I have to say that this GitBook is curated using some of my rare spare time. It therefore might take some time to react on your feedback. So my plea is to be patient if you don't see immediate responses.
 
-All playgrounds are hosted and published on [GitHub](https://github.com/MatiMax/Swift-Playgrounds). So please feel free to either clone or fork them. If you want to see some additions you might write a comment and ask for such. If you have some suggestions for improvements, please feel free to write a comment or modify the code, and thereafter post a pull request.
+## Getting Involved
 
-| Swift Playground | Topic |
-| :--- | :--- |
-| … | … |
-| … | … |
+Don't hesitate to use my content posted there to thrive your own skills and knowledge. Also, if you see some room for improvement to my content, feel free to submit comments or even pull requests.
+
+## Getting in Touch
+
+You can reach me at mati at matimax dot info.
 
