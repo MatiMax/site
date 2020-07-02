@@ -1,7 +1,7 @@
 ---
 description: >-
-  An unasserted list of maybe useful playgrounds that shed light on the theory
-  of algorithms, the use of the Swift Standard Library, integration with C, and
+  An assorted list of maybe useful playgrounds that shed light on the theory of
+  algorithms, the use of the Swift Standard Library, integration with C, and
   other experiments.
 ---
 
