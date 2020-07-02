@@ -12,7 +12,7 @@ During my carreer as computer scientist and engineer I collected a diverse assor
 
 ## Time Constraints
 
-Although I would be happy to repsond to questions asked or comments made I have to say that this GitBook is curated using some of my rare spare time. It therefore might take some time to react on your feedback. So my plea is to be patient if you don't see immediate responses.
+Although I would be happy to repsond to questions asked or comments made I have to stress that this GitBook is curated using some of my rare spare time. It therefore might take some time to react on your feedback. So my plea is to be patient if you don't see an immediate response.
 
 ## Getting Involved
 
