@@ -20,5 +20,5 @@ Don't hesitate to use my content posted there to thrive your own skills and know
 
 ## Getting in Touch
 
-You can reach me at mati at matimax dot info, or via my Twitter handle @IamMatiMax.
+You can reach me at `mati at matimax dot info`, or via my Twitter handle `IamMatiMax`.
 
