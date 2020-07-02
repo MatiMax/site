@@ -5,7 +5,7 @@ description: >-
   other experiments.
 ---
 
-# About this GitBook
+# Using the Swift Playgrounds
 
 ## Getting Started
 

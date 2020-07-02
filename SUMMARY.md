@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Swift Playgrounds](README.md)
+* [About this GitBook](README.md)
+
+## Swift Playgrounds
+
+* [Using the Swift Playgrounds](swift-playgrounds/using-the-swift-playgrounds.md)
 
