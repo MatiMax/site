@@ -7,13 +7,13 @@
 * [Using the Swift Playgrounds](swift-playgrounds/using-the-swift-playgrounds.md)
 * [Swift Playgrounds by Category](swift-playgrounds/swift-playgrounds-by-category.md)
 
-## Microcontrollers & Single Board Computers <a id="mc-and-sbc"></a>
+## Microcontrollers & Single Board Computers <a id="microcontrollers-and-sbcs"></a>
 
-* [Arduino](mc-and-sbc/arduino.md)
-* [Raspberry Pi](mc-and-sbc/raspberry-pi.md)
-* [ESP32](mc-and-sbc/esp32.md)
-* [K210](mc-and-sbc/k210.md)
-* [Nvidia Jetson Nano & Tesla](mc-and-sbc/nvidia-jetson-nano-and-tesla.md)
+* [Arduino](microcontrollers-and-sbcs/arduino.md)
+* [Raspberry Pi](microcontrollers-and-sbcs/raspberry-pi.md)
+* [ESP32](microcontrollers-and-sbcs/esp32.md)
+* [K210](microcontrollers-and-sbcs/k210.md)
+* [Nvidia Jetson Nano & Tesla](microcontrollers-and-sbcs/nvidia-jetson-nano-and-tesla.md)
 
 ## Applied Electronics & Control Theory
 
