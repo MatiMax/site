@@ -4,3 +4,7 @@ description: Documentation of various projects using Raspberry Pi single board c
 
 # Raspberry Pi
 
+## Introduction
+
+## Raspberry Pi 4
+

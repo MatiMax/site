@@ -11,9 +11,9 @@
 
 * [Arduino](microcontrollers-and-sbcs/arduino.md)
 * [Raspberry Pi](microcontrollers-and-sbcs/raspberry-pi.md)
-* [ESP32](microcontrollers-and-sbcs/esp32.md)
-* [K210](microcontrollers-and-sbcs/k210.md)
-* [Nvidia Jetson Nano & Tesla](microcontrollers-and-sbcs/nvidia-jetson-nano-and-tesla.md)
+* [Espressif](microcontrollers-and-sbcs/espressif.md)
+* [Kendryte](microcontrollers-and-sbcs/kendryte.md)
+* [Nvidia Jetson & Tesla](microcontrollers-and-sbcs/nvidia-jetson-and-tesla.md)
 
 ## Applied Electronics & Control Theory
 
