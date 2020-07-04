@@ -19,6 +19,18 @@ All playgrounds are hosted and published on [GitHub](https://github.com/MatiMax/
 
 | Swift Playground | Topic |
 | :--- | :--- |
-| … | … |
-| … | … |
+| DNSResolve5 | … |
+| Factorial | … |
+| Function Call Mapping |  |
+| IPHostAddressResolution5 |  |
+| IPHostAddressResolution5 SwiftUI |  |
+| Pulsating Custom Button |  |
+| QR Code |  |
+| QR Code iOS |  |
+| QR Code macOS |  |
+| SpeedMaths |  |
+| Syntax Tree |  |
+| Tail Recursion |  |
+| Using Opaque Types |  |
+| Using Phantom Types |  |
 
