@@ -22,10 +22,7 @@
 
 ## Microprocessor Architectures & Instruction Sets
 
+* [6502](microprocessor-architectures-and-instruction-sets/6502.md)
 * [ARM](microprocessor-architectures-and-instruction-sets/arm.md)
-
----
-
-* [RISC-V](risc-v.md)
-* [6502](6502.md)
+* [RISC-V](microprocessor-architectures-and-instruction-sets/risc-v.md)
 
