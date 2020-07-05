@@ -1,6 +1,6 @@
 ---
 description: >-
-  My public scratchpad of various experiments and findings which I humbly share
+  My public scratch pad of various experiments and findings which I humbly share
   with the community.
 ---
 
