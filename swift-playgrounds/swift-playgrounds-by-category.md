@@ -4,7 +4,7 @@ description: An overview of playgrounds with some categorisation.
 
 # Swift Playgrounds by Category
 
-## Computer Science Theory & Algorithms
+### Computer Science Theory & Algorithms
 
 | Swift Playground | Topic |
 | :--- | :--- |
@@ -15,7 +15,7 @@ description: An overview of playgrounds with some categorisation.
 | Using Opaque Types | Demonstration of using Swift opaque types |
 | Using Phantom Types | Demonstration of using phantom types in Swift |
 
-## Networking
+### Networking
 
 | Swift Playground | Topic |
 | :--- | :--- |
@@ -23,14 +23,14 @@ description: An overview of playgrounds with some categorisation.
 | IPHostAddressResolution5 | Resolve host IP address by a given name using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
 | IPHostAddressResolution5 SwiftUI | Same as `IPHostAddressResolution5` with a simple UI |
 
-## Integrating C
+### Integrating C
 
 | Swift Playground | Topic |
 | :--- | :--- |
 | IPHostAddressResolution5 | Resolve host IP address by a given name using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
 | IPHostAddressResolution5 SwiftUI | Same as `IPHostAddressResolution5` with a simple UI |
 
-## SwiftUI
+### SwiftUI
 
 | Swift Playground | Topic |
 | :--- | :--- |
