@@ -6,9 +6,9 @@ description: Documentation of projects based on Kendryte-based boards.
 
 ## Introduction
 
-### RISC-V Architecture
+## RISC-V Architecture
 
-### K210
+## K210
 
 
 
