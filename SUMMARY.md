@@ -7,6 +7,10 @@
 * [Using the Swift Playgrounds](swift-playgrounds/using-the-swift-playgrounds.md)
 * [Swift Playgrounds by Category](swift-playgrounds/swift-playgrounds-by-category.md)
 
+## Swift
+
+* [CLI Tools](swift/cli-tools.md)
+
 ## Microcontrollers & Single Board Computers <a id="microcontrollers-and-sbcs"></a>
 
 * [Arduino](microcontrollers-and-sbcs/arduino.md)

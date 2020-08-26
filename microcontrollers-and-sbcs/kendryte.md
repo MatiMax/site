@@ -10,5 +10,3 @@ description: Documentation of projects based on Kendryte-based boards.
 
 ## K210
 
-
-
