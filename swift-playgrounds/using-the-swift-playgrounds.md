@@ -19,10 +19,10 @@ All playgrounds are hosted and published on [GitHub](https://github.com/MatiMax/
 
 | Swift Playground | Topic |
 | :--- | :--- |
-| DNSResolve5 | Resolve host IP address by a given name using Apple’s Core Foundation with `CFHost`. This _won’t_ resolve the host alias names, though |
+| DNSResolve5 | Resolve host names from a given IP address using Apple’s Core Foundation with `CFHost`. This _won’t_ resolve the host alias names, though |
 | Factorial | Very simple demo of a recursion algorithm in Swift |
 | Function Call Mapping | Demonstration of calling functions dynamically using a routing pattern |
-| IPHostAddressResolution5 | Resolve host IP address by a given name using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
+| IPHostAddressResolution5 | Resolve host names from a given IP address using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
 | IPHostAddressResolution5 SwiftUI | Same as `IPHostAddressResolution5` with a simple UI |
 | Pulsating Custom Button | A custom SwiftUI button with a blinking LED indicator mimicking buttons found on KORG’s synthesisers |
 | QR Code | How to platform-independently generate a bitmap QR code using Apple’s CoreImage `CIFilter` |
