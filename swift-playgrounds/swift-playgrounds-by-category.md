@@ -19,8 +19,8 @@ description: An overview of playgrounds with some categorisation.
 {% tab title="Networking" %}
 | Swift Playground | Topic |
 | :--- | :--- |
-| DNSResolve5 | Resolve host names from a given  IP address  using Apple’s Core Foundation with `CFHost`. This _won’t_ resolve the host alias names, though |
-| IPHostAddressResolution5 | Resolve host names from a given IP address  using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
+| DNSResolve5 | Resolve host names from a given  IP address using Apple’s Core Foundation with `CFHost`. This _won’t_ resolve the host alias names, though |
+| IPHostAddressResolution5 | Resolve host names from a given IP address using GLibC’s standard networking C function `gethostbyaddr`. This _does_ resolve the host alias names |
 | IPHostAddressResolution5 SwiftUI | Same as `IPHostAddressResolution5` with a simple UI |
 {% endtab %}
 
