@@ -16,7 +16,7 @@ Although I would be happy to repsond to questions asked or comments made I have 
 
 ## Getting Involved
 
-Don't hesitate to use my content posted there to thrive your own skills and knowledge. Also, if you see some room for improvement to my content, feel free to submit comments or even pull requests.
+Don't hesitate to use my content posted here to thrive your own skills and knowledge. Also, if you see some room for improvement to my content, feel free to submit comments or even pull requests.
 
 ## Getting in Touch
 
