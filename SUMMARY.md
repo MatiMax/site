@@ -9,9 +9,11 @@
 
 ## Swift
 
-* [CLI Tools](swift/cli-tools.md)
+* [CLI Tools](swift/cli-tools/README.md)
+  * [Swift Scripts on the Console](swift/cli-tools/swift-scripts-on-the-console.md)
+  * [Swift Scripts with SwiftUI](swift/cli-tools/swift-scripts-with-swiftui.md)
 
-## Microcontrollers & Single Board Computers <a id="microcontrollers-and-sbcs"></a>
+## Microcontrollers & Single Board Computers <a href="#microcontrollers-and-sbcs" id="microcontrollers-and-sbcs"></a>
 
 * [Arduino](microcontrollers-and-sbcs/arduino.md)
 * [Raspberry Pi](microcontrollers-and-sbcs/raspberry-pi.md)
@@ -29,4 +31,3 @@
 * [6502](microprocessor-architectures-and-instruction-sets/6502.md)
 * [ARM](microprocessor-architectures-and-instruction-sets/arm.md)
 * [RISC-V](microprocessor-architectures-and-instruction-sets/risc-v.md)
-
