@@ -2,7 +2,7 @@
 description: How to use Swift as shell script language.
 ---
 
-# CLI Tools
+# Scripting Swift
 
 Swift not only allows you to write compiled applications with or without UI interaction, but also is able to be run as command line shell scripts.
 
@@ -43,4 +43,3 @@ You then can execute the Swift script by dotting it like so:
 ```
 
 Please find my Swift scripts in the corresponding [GitHub](https://github.com/MatiMax/swift) repository.
-
