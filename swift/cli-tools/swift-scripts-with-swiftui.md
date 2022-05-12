@@ -1,5 +1,5 @@
 ---
-description: Scripting full-fledged applications using SwiftUI.
+description: How to script full-fledged applications using SwiftUI.
 ---
 
 # Swift Scripts with SwiftUI
