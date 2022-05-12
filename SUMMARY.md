@@ -21,13 +21,13 @@
 * [Kendryte](microcontrollers-and-sbcs/kendryte.md)
 * [Nvidia Jetson & Tesla](microcontrollers-and-sbcs/nvidia-jetson-and-tesla.md)
 
-## Applied Electronics & Control Theory
-
-* [Digital Electronics](applied-electronics-and-control-theory/digital-electronics.md)
-* [Analog Electronics](applied-electronics-and-control-theory/analog-electronics.md)
-
 ## Microprocessor Architectures & Instruction Sets
 
 * [6502](microprocessor-architectures-and-instruction-sets/6502.md)
 * [ARM](microprocessor-architectures-and-instruction-sets/arm.md)
 * [RISC-V](microprocessor-architectures-and-instruction-sets/risc-v.md)
+
+## Applied Electronics & Control Theory
+
+* [Digital Electronics](applied-electronics-and-control-theory/digital-electronics.md)
+* [Analog Electronics](applied-electronics-and-control-theory/analog-electronics.md)
