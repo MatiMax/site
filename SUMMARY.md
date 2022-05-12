@@ -9,7 +9,7 @@
 
 ## Swift
 
-* [Scripting Swift](swift/cli-tools/README.md)
+* [Scripting Swift](swift/cli-tools.md)
   * [Swift Scripts on the Console](swift/cli-tools/swift-scripts-on-the-console.md)
   * [Swift Scripts with SwiftUI](swift/cli-tools/swift-scripts-with-swiftui.md)
 
