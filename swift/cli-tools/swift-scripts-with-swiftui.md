@@ -6,4 +6,4 @@ description: >-
 
 # Swift Scripts with SwiftUI
 
-Using `hide_non_apple_apps.swift` (unpublished at the time of writing) as a starting point. Hence, more to come.
+Using `hide_non_apple_items.swift` (unpublished at the time of writing) as a starting point. Hence, more to come.
